@@ -8,6 +8,7 @@ The dataset is described and available on Kaggle: https://www.kaggle.com/vbooksh
 The notebooks are:
 - BNA_Capstone_DataAnalysis_nb.ipynb: initial data analysis,
 - BNA_Capstone_Feature_Extraction-v1.0.1.ipynb: initial feature extraction
+- BNA_Capstone_Model_ML-v1.0.1.ipynb: initial ML models, using the ouputs from BNA_Capstone_Feature_Extraction-v1.0.1.ipynb
 - BNA_Capstone_Feature_Extraction-with_Data_Augmentation_v1.2.ipynb: feature extraction with data augmentation
 - BNA_Capstone_Model_ML-v1.3.ipynb: ML models, using the outputs from BNA_Capstone_Feature_Extraction-with_Data_Augmentation_v1.2.ipynb
 - BNA_Capstone_Model_DL-v1.3.2.ipynb: DL models, using the outputs from BNA_Capstone_Feature_Extraction-with_Data_Augmentation_v1.2.ipynb
