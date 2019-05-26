@@ -16,7 +16,7 @@ The notebooks are:
 
 To use the notebooks, you can follow the steps below:
 1. Clone this repo
-2. Dowload the "Respiratory Disorder" dataset at:
+2. Download the "Respiratory Disorder" dataset at:
 3. Unzip the zip file to <repo>/dataset/Respiratory_dataset/ (paths are configurable on the notebooks)
 4. Edit the file "demographic_info.txt"; the first line should be empty, remove it and save file
 
