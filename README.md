@@ -3,6 +3,8 @@ IBM Advanced Data Science Professional Certificate Capstone project
 
 This is the repo for the Jupyter notebooks developed for my Capstone project for the IBM Advanced Data Science Professional Certificate: "AUTOMATIC DIAGNOSIS OF RESPIRATORY DISORDERS".
 
+A presentation video is available on youtube: https://youtu.be/AKG-gqoK8Cs 
+
 The project aims to classify and predict respiratory disorders from sound data files.
 The dataset is described and available on Kaggle: https://www.kaggle.com/vbookshelf/respiratory-sound-database/home 
 
